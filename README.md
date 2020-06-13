@@ -70,6 +70,7 @@ Hibernation is supported
 ## Screenshots
 
 ![](https://i.imgur.com/NtiDiDW.png)
+![](https://i.imgur.com/YjKRhEo.png)
 
 
 
