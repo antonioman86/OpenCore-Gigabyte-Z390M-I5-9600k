@@ -1,0 +1,1 @@
+# OpenCore-Gigabyte-Z390M-I5-9600k
