@@ -69,5 +69,5 @@ Hibernation is supported
 
 ## Screenshots
 
-![](https://imgur.com/a/5KWOZI8)
+![](https://i.imgur.com/NtiDiDW.png)
 
