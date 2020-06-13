@@ -71,6 +71,7 @@ Hibernation is supported
 
 ![](https://i.imgur.com/NtiDiDW.png)
 ![](https://i.imgur.com/YjKRhEo.png)
+![](https://i.imgur.com/PZ5EX9a.png)
 
 
 
